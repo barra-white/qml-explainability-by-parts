@@ -32,25 +32,25 @@ def preprocess_data(train_size=0.8, random_state=42, shuffle=True):
 
     return X_train, X_test, y_train, y_test
 
-def get_num_features():
+def get_num_features() -> int:
     """
     Returns the number of features in the Iris dataset.
     """
     return load_iris().data.shape[1]
 
-def get_num_classes():
+def get_num_classes() -> int:
     """
     Returns the number of classes in the Iris dataset.
     """
     return len(load_iris().target_names)
 
-def get_class_names():
+def get_class_names() -> list[str]:
     """
     Returns the class names in the Iris dataset.
     """
     return load_iris().target_names
 
-def get_feature_names():
+def get_feature_names() -> list[str]:
     """
     Returns the feature names in the Iris dataset.
     """
