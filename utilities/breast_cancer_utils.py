@@ -1,11 +1,11 @@
 # import dataset
-from sklearn.datasets import load_iris
+from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 
 def preprocess_data(train_size=0.7, random_state=42, shuffle=True):
     """
-    Loads the Iris dataset, performs an 70-30 train-test split while maintaining the class distribution,
+    Loads the breast cancer dataset, performs an 70-30 train-test split while maintaining the class distribution,
     and scales the features using the MinMaxScaler (fitting only on the training data to avoid leakage).
 
     Parameters:
@@ -15,7 +15,7 @@ def preprocess_data(train_size=0.7, random_state=42, shuffle=True):
     """
     
     # Load the Iris dataset.
-    iris = load_iris()
+    iris = load_breast_cancer()
     X = iris.data
     y = iris.target
     
@@ -31,24 +31,24 @@ def preprocess_data(train_size=0.7, random_state=42, shuffle=True):
 
 def get_num_features() -> int:
     """
-    Returns the number of features in the Iris dataset.
+    Returns the number of features in the breast cancer dataset.
     """
-    return load_iris().data.shape[1]
+    return load_breast_cancer().data.shape[1]
 
 def get_num_classes() -> int:
     """
-    Returns the number of classes in the Iris dataset.
+    Returns the number of classes in the breast cancer dataset.
     """
-    return len(load_iris().target_names)
+    return len(load_breast_cancer().target_names)
 
 def get_class_names() -> list[str]:
     """
-    Returns the class names in the Iris dataset.
+    Returns the class names in the breast cancer dataset.
     """
-    return load_iris().target_names
+    return load_breast_cancer().target_names
 
 def get_feature_names() -> list[str]:
     """
-    Returns the feature names in the Iris dataset.
+    Returns the feature names in the breast cancer dataset.
     """
-    return load_iris().feature_names
+    return load_breast_cancer().feature_names
