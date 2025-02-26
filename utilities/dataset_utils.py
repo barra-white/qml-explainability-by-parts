@@ -22,7 +22,7 @@ class DiabetesData:
         self.pathname = pathname
         self.data = pd.read_csv(self.pathname)
         
-    def preprocess_data(self, train_size=0.7, random_state=42, shuffle=True):
+    def preprocess_data(self, train_size=0.8, random_state=42, shuffle=True):
         """
         Loads the Pima Indians Diabetes dataset, performs an 70-30 train-test split while maintaining the class distribution,
         and scales the features using the MinMaxScaler (fitting only on the training data to avoid leakage)
