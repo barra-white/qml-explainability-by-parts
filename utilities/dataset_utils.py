@@ -47,6 +47,32 @@ class DiabetesData:
         )
 
         return X_train, X_test, y_train, y_test
+    
+    def preprocess_data_ranged(self, train_size=0.7, random_state=42, shuffle=True):
+        """
+        Loads the Pima Indians Diabetes dataset, performs an 80-20 train-test split while maintaining the class distribution,
+        and scales the features using the StandardScaler (fitting only on the training data to avoid leakage)
+
+        Parameters:
+            train_size (float): Proportion of data to use for training (default: 0.7)
+            random_state (int): Seed for reproducibility (default: 42)
+            shuffle (bool): Whether to shuffle the dataset before splitting (default: True)
+        """
+        # load dataset
+        
+        X = self.data.iloc[:, :-1].values
+        y = self.data.iloc[:, -1].values
+        
+        #scaling
+        scaler = MinMaxScaler(feature_range=(-np.pi, np.pi))
+        X = scaler.fit_transform(X)
+        
+        # split the data
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, train_size=train_size, random_state=random_state, shuffle=shuffle, stratify=y
+        )
+
+        return X_train, X_test, y_train, y_test
         
     def get_num_features(self) -> int:
         """
