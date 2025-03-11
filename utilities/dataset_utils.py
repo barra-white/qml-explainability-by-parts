@@ -1,6 +1,6 @@
 # import dataset
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import pandas as pd
 
@@ -38,7 +38,7 @@ class DiabetesData:
         y = self.data.iloc[:, -1].values
         
         #scaling
-        scaler = StandardScaler()
+        scaler = MinMaxScaler()
         X = scaler.fit_transform(X)
         
         # split the data
