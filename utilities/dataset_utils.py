@@ -1,6 +1,6 @@
 # import dataset
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler
 import numpy as np
 import pandas as pd
 
@@ -25,7 +25,7 @@ class DiabetesData:
     def preprocess_data(self, train_size=0.7, random_state=42, shuffle=True):
         """
         Loads the Pima Indians Diabetes dataset, performs an 80-20 train-test split while maintaining the class distribution,
-        and scales the features using the MinMaxScaler (fitting only on the training data to avoid leakage)
+        and scales the features using the StandardScaler (fitting only on the training data to avoid leakage)
 
         Parameters:
             train_size (float): Proportion of data to use for training (default: 0.7)
@@ -38,7 +38,7 @@ class DiabetesData:
         y = self.data.iloc[:, -1].values
         
         #scaling
-        scaler = MinMaxScaler()
+        scaler = StandardScaler()
         X = scaler.fit_transform(X)
         
         # split the data
