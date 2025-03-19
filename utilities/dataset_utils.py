@@ -64,7 +64,7 @@ class DiabetesData:
         y = self.data.iloc[:, -1].values
         
         #scaling
-        scaler = MinMaxScaler(feature_range=(-np.pi/2, np.pi/2))
+        scaler = MinMaxScaler(feature_range=(-1, 1))
         X = scaler.fit_transform(X)
         
         # split the data
