@@ -1,0 +1,726 @@
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 1=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5064935064935064
+P R F1 S: (array([0.66071429, 0.36134454]), array([0.49333333, 0.5308642 ]), array([0.5648855, 0.43     ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 2=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5151515151515151
+P R F1 S: (array([0.6557377 , 0.35779817]), array([0.53333333, 0.48148148]), array([0.58823529, 0.41052632]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 3=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5497835497835498
+P R F1 S: (array([0.64935065, 0.35064935]), array([0.66666667, 0.33333333]), array([0.65789474, 0.34177215]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 4=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.4935064935064935
+P R F1 S: (array([0.62992126, 0.32692308]), array([0.53333333, 0.41975309]), array([0.57761733, 0.36756757]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 5=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5108225108225108
+P R F1 S: (array([0.6728972 , 0.37096774]), array([0.48      , 0.56790123]), array([0.56031128, 0.44878049]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 6=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.4805194805194805
+P R F1 S: (array([0.63392857, 0.33613445]), array([0.47333333, 0.49382716]), array([0.54198473, 0.4       ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 7=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5497835497835498
+P R F1 S: (array([0.65753425, 0.36470588]), array([0.64      , 0.38271605]), array([0.64864865, 0.37349398]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 8=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.63565891, 0.33333333]), array([0.54666667, 0.41975309]), array([0.58781362, 0.3715847 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 9=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.45454545454545453
+P R F1 S: (array([0.61111111, 0.31707317]), array([0.44      , 0.48148148]), array([0.51162791, 0.38235294]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 10=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.43722943722943725
+P R F1 S: (array([0.59090909, 0.29752066]), array([0.43333333, 0.44444444]), array([0.5       , 0.35643564]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 11=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5757575757575758
+P R F1 S: (array([0.68309859, 0.40449438]), array([0.64666667, 0.44444444]), array([0.66438356, 0.42352941]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 12=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.45454545454545453
+P R F1 S: (array([0.6      , 0.2972973]), array([0.48      , 0.40740741]), array([0.53333333, 0.34375   ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 13=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.4805194805194805
+P R F1 S: (array([0.64150943, 0.344     ]), array([0.45333333, 0.5308642 ]), array([0.53125   , 0.41747573]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 14=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5108225108225108
+P R F1 S: (array([0.66371681, 0.36440678]), array([0.5      , 0.5308642]), array([0.57034221, 0.4321608 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 15=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5627705627705628
+P R F1 S: (array([0.67625899, 0.39130435]), array([0.62666667, 0.44444444]), array([0.65051903, 0.41618497]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 16=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5454545454545454
+P R F1 S: (array([0.66423358, 0.37234043]), array([0.60666667, 0.43209877]), array([0.63414634, 0.4       ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 17=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.47186147186147187
+P R F1 S: (array([0.62280702, 0.32478632]), array([0.47333333, 0.4691358 ]), array([0.53787879, 0.38383838]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 18=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5454545454545454
+P R F1 S: (array([0.69230769, 0.39473684]), array([0.54      , 0.55555556]), array([0.60674157, 0.46153846]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 19=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5194805194805194
+P R F1 S: (array([0.66115702, 0.36363636]), array([0.53333333, 0.49382716]), array([0.5904059 , 0.41884817]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 20=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.64227642, 0.34259259]), array([0.52666667, 0.45679012]), array([0.57875458, 0.39153439]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 21=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5194805194805194
+P R F1 S: (array([0.69306931, 0.38461538]), array([0.46666667, 0.61728395]), array([0.55776892, 0.47393365]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 22=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5367965367965368
+P R F1 S: (array([0.68376068, 0.38596491]), array([0.53333333, 0.54320988]), array([0.59925094, 0.45128205]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 23=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.4935064935064935
+P R F1 S: (array([0.6460177 , 0.34745763]), array([0.48666667, 0.50617284]), array([0.55513308, 0.4120603 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 24=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 2
+Optimizer: COBYLA
+
+ACCURACY: 0.5411255411255411
+P R F1 S: (array([0.67460317, 0.38095238]), array([0.56666667, 0.49382716]), array([0.61594203, 0.43010753]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 25=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.46320346320346323
+P R F1 S: (array([0.60483871, 0.29906542]), array([0.5       , 0.39506173]), array([0.54744526, 0.34042553]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 26=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.4675324675324675
+P R F1 S: (array([0.62616822, 0.33064516]), array([0.44666667, 0.50617284]), array([0.52140078, 0.4       ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 27=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5367965367965368
+P R F1 S: (array([0.66165414, 0.36734694]), array([0.58666667, 0.44444444]), array([0.62190813, 0.40223464]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 28=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5367965367965368
+P R F1 S: (array([0.66929134, 0.375     ]), array([0.56666667, 0.48148148]), array([0.61371841, 0.42162162]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 29=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.65765766, 0.35833333]), array([0.48666667, 0.5308642 ]), array([0.55938697, 0.4278607 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 30=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.4935064935064935
+P R F1 S: (array([0.66336634, 0.36153846]), array([0.44666667, 0.58024691]), array([0.53386454, 0.44549763]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 31=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5627705627705628
+P R F1 S: (array([0.68421053, 0.39795918]), array([0.60666667, 0.48148148]), array([0.64310954, 0.43575419]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 32=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5238095238095238
+P R F1 S: (array([0.68518519, 0.38211382]), array([0.49333333, 0.58024691]), array([0.57364341, 0.46078431]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 33=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.6635514 , 0.36290323]), array([0.47333333, 0.55555556]), array([0.55252918, 0.43902439]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 34=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.48484848484848486
+P R F1 S: (array([0.63716814, 0.33898305]), array([0.48      , 0.49382716]), array([0.54752852, 0.40201005]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 35=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5541125541125541
+P R F1 S: (array([0.66906475, 0.38043478]), array([0.62      , 0.43209877]), array([0.64359862, 0.40462428]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 36=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.4458874458874459
+P R F1 S: (array([0.60185185, 0.30894309]), array([0.43333333, 0.4691358 ]), array([0.50387597, 0.37254902]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 37=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5714285714285714
+P R F1 S: (array([0.70731707, 0.41666667]), array([0.58      , 0.55555556]), array([0.63736264, 0.47619048]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 38=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.48484848484848486
+P R F1 S: (array([0.64220183, 0.3442623 ]), array([0.46666667, 0.51851852]), array([0.54054054, 0.4137931 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 39=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.48917748917748916
+P R F1 S: (array([0.61764706, 0.30526316]), array([0.56      , 0.35802469]), array([0.58741259, 0.32954545]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 40=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.48917748917748916
+P R F1 S: (array([0.63114754, 0.33027523]), array([0.51333333, 0.44444444]), array([0.56617647, 0.37894737]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 41=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5064935064935064
+P R F1 S: (array([0.63432836, 0.32989691]), array([0.56666667, 0.39506173]), array([0.59859155, 0.35955056]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 42=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.4675324675324675
+P R F1 S: (array([0.61946903, 0.3220339 ]), array([0.46666667, 0.4691358 ]), array([0.53231939, 0.38190955]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 43=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.4675324675324675
+P R F1 S: (array([0.62385321, 0.32786885]), array([0.45333333, 0.49382716]), array([0.52509653, 0.39408867]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 44=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5151515151515151
+P R F1 S: (array([0.67592593, 0.37398374]), array([0.48666667, 0.56790123]), array([0.56589147, 0.45098039]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 45=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5151515151515151
+P R F1 S: (array([0.65079365, 0.35238095]), array([0.54666667, 0.45679012]), array([0.5942029 , 0.39784946]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 46=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.47186147186147187
+P R F1 S: (array([0.62727273, 0.33057851]), array([0.46      , 0.49382716]), array([0.53076923, 0.3960396 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 47=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5064935064935064
+P R F1 S: (array([0.63235294, 0.32631579]), array([0.57333333, 0.38271605]), array([0.6013986 , 0.35227273]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 48=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 3
+Optimizer: COBYLA
+
+ACCURACY: 0.5367965367965368
+P R F1 S: (array([0.65467626, 0.35869565]), array([0.60666667, 0.40740741]), array([0.62975779, 0.38150289]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 49=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.65765766, 0.35833333]), array([0.48666667, 0.5308642 ]), array([0.55938697, 0.4278607 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 50=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.64227642, 0.34259259]), array([0.52666667, 0.45679012]), array([0.57875458, 0.39153439]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 51=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.46320346320346323
+P R F1 S: (array([0.60833333, 0.30630631]), array([0.48666667, 0.41975309]), array([0.54074074, 0.35416667]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 52=====
+Ansatz: EfficientSU2
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.48484848484848486
+P R F1 S: (array([0.64220183, 0.3442623 ]), array([0.46666667, 0.51851852]), array([0.54054054, 0.4137931 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 53=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.4588744588744589
+P R F1 S: (array([0.60869565, 0.31034483]), array([0.46666667, 0.44444444]), array([0.52830189, 0.36548223]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 54=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.4805194805194805
+P R F1 S: (array([0.63888889, 0.34146341]), array([0.46      , 0.51851852]), array([0.53488372, 0.41176471]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 55=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5541125541125541
+P R F1 S: (array([0.67938931, 0.39      ]), array([0.59333333, 0.48148148]), array([0.63345196, 0.43093923]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 56=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 2
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.4199134199134199
+P R F1 S: (array([0.58163265, 0.30075188]), array([0.38      , 0.49382716]), array([0.45967742, 0.37383178]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 57=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5454545454545454
+P R F1 S: (array([0.69230769, 0.39473684]), array([0.54      , 0.55555556]), array([0.60674157, 0.46153846]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 58=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.49783549783549785
+P R F1 S: (array([0.64655172, 0.34782609]), array([0.5       , 0.49382716]), array([0.56390977, 0.40816327]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 59=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.4935064935064935
+P R F1 S: (array([0.65137615, 0.35245902]), array([0.47333333, 0.5308642 ]), array([0.54826255, 0.42364532]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 60=====
+Ansatz: EfficientSU2
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.49783549783549785
+P R F1 S: (array([0.63934426, 0.33944954]), array([0.52      , 0.45679012]), array([0.57352941, 0.38947368]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 61=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.43722943722943725
+P R F1 S: (array([0.59090909, 0.29752066]), array([0.43333333, 0.44444444]), array([0.5       , 0.35643564]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 62=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.4805194805194805
+P R F1 S: (array([0.63392857, 0.33613445]), array([0.47333333, 0.49382716]), array([0.54198473, 0.4       ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 63=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.47619047619047616
+P R F1 S: (array([0.616     , 0.31132075]), array([0.51333333, 0.40740741]), array([0.56      , 0.35294118]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 64=====
+Ansatz: RealAmplitudes
+Ansatz Reps: 3
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.47619047619047616
+P R F1 S: (array([0.64646465, 0.34848485]), array([0.42666667, 0.56790123]), array([0.51405622, 0.43192488]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 65=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5064935064935064
+P R F1 S: (array([0.65517241, 0.35652174]), array([0.50666667, 0.50617284]), array([0.57142857, 0.41836735]), array([150,  81]))
+=====COMBINATION COMPLETED=====
+No gradient function provided, creating a gradient function. If your Sampler requires transpilation, please provide a pass manager.
+=====COMBINATION: 66=====
+Ansatz: EfficientSU2
+Ansatz Reps: 4
+Feature Map: ZZFeatureMap
+Feature Map Reps: 4
+Optimizer: COBYLA
+
+ACCURACY: 0.5021645021645021
+P R F1 S: (array([0.65765766, 0.35833333]), array([0.48666667, 0.5308642 ]), array([0.55938697, 0.4278607 ]), array([150,  81]))
+=====COMBINATION COMPLETED=====
